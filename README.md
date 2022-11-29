@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sahincan
+- 👀 I’m interested in Computational Sciencies, Digital Twins and Electronics
+- 🌱 I’m currently learning XR Tech, Embedded Edge and Computational Methods
